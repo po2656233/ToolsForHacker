@@ -1,6 +1,7 @@
 # ToolsForHacker
 自己生产的黑科技
 
+在createRegist目录内新增 从proto文件中提取message工具
 
 //
 //goland
